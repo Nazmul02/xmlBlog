@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product Id="5">
+    <ProductName>FacialScrub</ProductName>
+    <Stock>10</Stock>
+  </product>
+</products>
